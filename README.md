@@ -1,4 +1,4 @@
-# restaurant_page
+# ToDo List
 
 ## This is a simple restaurant website for me as a training working with webpack.
 
