@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[ToDo List:]https://sandywezzy.github.io/toDo_list/
+[ToDo List:]https://SandroCristino.github.io/toDo_list/
 
 
 ## Getting Started
