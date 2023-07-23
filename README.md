@@ -1,6 +1,6 @@
 # ToDo List
 
-## This is a simple restaurant website for me as a training working with webpack.
+## This is a simple todo list website for me as a training working with webpack.
 
 <div align="center"><img src="./dist/images/screen.png" alt="screenshot of website" width="900" /></div>
 
